@@ -1,0 +1,7 @@
+tilemapbase
+flask
+flask_cors
+python-dateutil
+pymongo
+numpy
+networkx
